@@ -1,0 +1,51 @@
+Company,Country,Income,Revenue,StockPrice2023,StockPrice2024,NumberOfUsers,Data
+Apple,USA,80,365,150,160,1500,Train
+Microsoft,USA,60,200,280,300,1200,Train
+Alphabet,USA,55,257,100,110,2000,Train
+Meta Platforms,USA,20,117,250,270,3000,Train
+Amazon,USA,33,470,140,155,500,Train
+Intel,USA,15,80,50,55,1000,Train
+IBM,USA,10,75,130,135,900,Train
+Cisco Systems,USA,12,50,45,48,800,Train
+Oracle,USA,14,40,60,62,600,Train
+Adobe,USA,9,15,500,520,300,Train
+Nvidia,USA,12,30,220,230,400,Train
+Qualcomm,USA,8,23,160,165,350,Train
+Broadcom,USA,13,28,500,510,200,Train
+Salesforce,USA,7,26,210,220,100,Train
+SAP,Germany,6,32,140,145,250,Train
+Uber,USA,-1,31,45,50,120,Train
+Twitter,USA,2,10,40,42,350,Train
+eBay,USA,3,10,60,65,180,Train
+Netflix,USA,5,30,350,360,220,Train
+Square (Block),USA,4,9,65,70,150,Train
+Shopify,Canada,2,6,40,45,130,Train
+Zoom,USA,1,4,80,85,300,Train
+Slack,USA,1,3,25,27,95,Train
+Palantir,USA,0,2,9,10,110,Train
+AMD,USA,5,16,90,95,220,Train
+HP Inc.,USA,4,55,30,32,250,Train
+Dell Technologies,USA,3,94,50,52,240,Train
+Lenovo,China,2,50,18,19,200,Train
+Xiaomi,China,3,37,25,26,400,Train
+Sony,Japan,7,80,70,75,150,Train
+LG Electronics,South Korea,3,60,20,21,100,Train
+Panasonic,Japan,2,65,15,16,80,Train
+Toshiba,Japan,1,30,12,13,70,Train
+Fujitsu,Japan,2,40,18,19,90,Train
+NEC Corporation,Japan,1,30,10,11,60,Train
+ASML Holding,Netherlands,6,18,700,720,50,Train
+Texas Instruments,USA,5,16,180,185,55,Train
+Micron Technology,USA,3,30,90,95,65,Train
+Analog Devices,USA,2,10,150,155,70,Test
+Western Digital,USA,1,20,65,68,85,Test
+Seagate Technology,USA,1,10,40,42,75,Test
+ARM Holdings,UK,4,7,35,37,60,Test
+Garmin,USA,2,4,25,26,90,Test
+Roku,USA,1,3,50,53,100,Test
+Electronic Arts,USA,3,6,140,145,80,Test
+Activision Blizzard,USA,4,8,70,73,95,Test
+Zynga,USA,0,1,10,11,60,Test
+Square Enix,Japan,2,4,55,57,70,Test
+Dropbox,USA,1,2,30,31,100,Test
+Spotify,Sweden,0,5,150,155,345,Test
