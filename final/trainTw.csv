@@ -1,0 +1,51 @@
+﻿id,fecha,texto,label,is_train
+1,4/24/25,aumento de la deuda externa colombiana impulsa el dólar frente al peso colombiano.,1,TRUE
+2,3/15/25,extensión de guerra comercial entre EE.UU. y China impulsa el dólar frente al peso colombiano.,1,TRUE
+3,4/10/25,crecimiento económico por encima de expectativas fortalece al peso frente al dólar.,0,TRUE
+4,1/23/25,datos de desempleo mejor de lo esperado fortalece al peso frente al dólar.,0,TRUE
+5,4/7/25,subida de la prima de riesgo país impulsa el dólar frente al peso colombiano.,1,TRUE
+6,4/20/25,anuncio de alza de tasas de interés en EE.UU. impulsa el dólar frente al peso colombiano.,1,TRUE
+7,4/17/25,respaldo de organismos multilaterales a Colombia fortalece al peso frente al dólar.,0,TRUE
+8,2/17/25,temor a recesión global impulsa el dólar frente al peso colombiano.,1,TRUE
+9,4/16/25,mejora en reservas internacionales del Banco de la República fortalece al peso frente al dólar.,0,TRUE
+10,2/27/25,caída en la confianza del consumidor impulsa el dólar frente al peso colombiano.,1,TRUE
+11,2/25/25,cierre de acuerdos comerciales clave impulsa el dólar frente al peso colombiano.,1,TRUE
+12,5/27/25,reducción de deuda externa fortalece al peso frente al dólar.,0,TRUE
+13,5/7/25,alerta por déficit en cuenta corriente impulsa el dólar frente al peso colombiano.,1,TRUE
+14,3/11/25,éxito en negociación de acuerdos de libre comercio fortalece al peso frente al dólar.,0,TRUE
+15,3/25/25,recalificación crediticia negativa por agencias internacionales impulsa el dólar frente al peso colombiano.,1,TRUE
+16,5/7/25,informes de inflación en Colombia más altos de lo esperado impulsa el dólar frente al peso colombiano.,1,TRUE
+17,4/17/25,protestas masivas y bloqueos en carreteras principales impulsa el dólar frente al peso colombiano.,1,TRUE
+18,2/17/25,anuncio de estabilidad fiscal del gobierno colombiano fortalece al peso frente al dólar.,0,TRUE
+19,3/12/25,políticas monetarias favorables del Banco de la República fortalece al peso frente al dólar.,0,TRUE
+20,2/9/25,caída en los precios del café en mercados internacionales impulsa el dólar frente al peso colombiano.,1,TRUE
+21,5/5/25,inversión extranjera directa récord en el trimestre fortalece al peso frente al dólar.,0,TRUE
+22,4/22/25,especulación sobre devaluación del peso impulsa el dólar frente al peso colombiano.,1,TRUE
+23,4/29/25,aumento en los precios del café en mercados internacionales fortalece al peso frente al dólar.,0,TRUE
+24,3/26/25,fuerte entrada de remesas impulsa al peso fortalece al peso frente al dólar.,0,TRUE
+25,5/4/25,reducción de las reservas internacionales del país impulsa el dólar frente al peso colombiano.,1,TRUE
+26,2/19/25,retroceso en proyecciones de crecimiento económico impulsa el dólar frente al peso colombiano.,1,TRUE
+27,1/16/25,fortalecimiento de la moneda local tras reforma económica fortalece al peso frente al dólar.,0,TRUE
+28,4/9/25,baja en los precios del petróleo afecta exportaciones impulsa el dólar frente al peso colombiano.,1,TRUE
+29,3/26/25,disminución de ingresos por exportaciones de café impulsa el dólar frente al peso colombiano.,1,TRUE
+30,2/28/25,baja volatilidad en mercados emergentes fortalece al peso frente al dólar.,0,TRUE
+31,1/18/25,dudas sobre la deuda pública de Colombia impulsa el dólar frente al peso colombiano.,1,TRUE
+32,3/25/25,preocupaciones por sostenibilidad fiscal impulsa el dólar frente al peso colombiano.,1,TRUE
+33,4/5/25,bonanza en exportaciones de carbón y minerales fortalece al peso frente al dólar.,0,TRUE
+34,2/2/25,caída en inversión extranjera directa impulsa el dólar frente al peso colombiano.,1,TRUE
+35,3/17/25,estabilidad en el precio del petróleo crudo fortalece al peso frente al dólar.,0,TRUE
+36,3/8/25,excelentes datos de exportación de petróleo fortalece al peso frente al dólar.,0,FALSE
+37,2/4/25,proyección de superávit en cuenta corriente fortalece al peso frente al dólar.,0,FALSE
+38,5/12/25,noticias positivas sobre recaudación fiscal fortalece al peso frente al dólar.,0,FALSE
+39,4/7/25,debate sobre reforma tributaria impopular impulsa el dólar frente al peso colombiano.,1,FALSE
+40,4/3/25,confianza de consumidores colombianos al alza fortalece al peso frente al dólar.,0,FALSE
+41,4/13/25,revisión positiva de agencias de rating para Colombia fortalece al peso frente al dólar.,0,FALSE
+42,1/3/25,informes de bajo desempeño del sector manufacturero impulsa el dólar frente al peso colombiano.,1,FALSE
+43,3/6/25,recuperación del turismo extranjero fortalece al peso frente al dólar.,0,FALSE
+44,3/10/25,incertidumbre electoral antes de las próximas elecciones impulsa el dólar frente al peso colombiano.,1,FALSE
+45,3/20/25,alerta por recorte en calificación crediticia impulsa el dólar frente al peso colombiano.,1,FALSE
+46,3/18/25,reducción de la prima de riesgo país fortalece al peso frente al dólar.,0,FALSE
+47,4/8/25,descenso global de la tasa de inflación fortalece al peso frente al dólar.,0,FALSE
+48,5/16/25,recorte de tasas de interés en EE.UU. reduce presión fortalece al peso frente al dólar.,0,FALSE
+49,3/8/25,inestabilidad política que genera fuga de capitales impulsa el dólar frente al peso colombiano.,1,FALSE
+50,5/19/25,moderación en los precios de los alimentos fortalece al peso frente al dólar.,0,FALSE
